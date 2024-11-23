@@ -1,6 +1,8 @@
 # sorting_assignment
 
-How to run each sorting module:
+--How to run each sorting module:--
+
+
 Step 1 (Also for running the Test module): 
   -Enter to the repo page, Clone this repo.
 Step 2: 
