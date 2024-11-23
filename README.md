@@ -5,6 +5,8 @@
 
 Step 1 (Also for running the Test module): 
   -Enter to the repo page, Clone this repo.
+
+  
 Step 2: 
   Navigate to the directory where your array_generation.py file is saved 
   For example, in Linux's Terminal:
