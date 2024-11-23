@@ -17,6 +17,6 @@ Step 2:
 How to run the test module and generate the performance plots:
 
 
-Same for test module, with little change:
+Same for test module, with a little change:
 $ cd /path/to/your/script
   $ python test_module.py
